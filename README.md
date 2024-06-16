@@ -4,3 +4,5 @@ total areas to complete
 https://neetcode.io/practice
 
 https://github.com/armankhondker/best-leetcode-resources
+
+Linked List 
