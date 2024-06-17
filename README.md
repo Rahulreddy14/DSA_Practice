@@ -38,8 +38,8 @@ This is a 100 days grinding of leetcode.
 - [] **Remove Nth Node from the End of the List**
 
   - Just create a Dummy node
-    Use two Pointers, start the left from the dummy node. right one starts with the difference given in the question
+    Use two Pointers, start the left from the dummy node. right one starts with the n nodes from the head given in the question
   - move the pointers untill the right points to None
-  - then update the next of left
+  - then remove the next node of left pointer
 
 - [ ] **Linked List Cycle**
