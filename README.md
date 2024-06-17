@@ -11,11 +11,21 @@ This is a 100 days grinding of leetcode.
 
 # GOAL - To Complete the Blind 75 List of the coding Questions
 
-### Linked List:
+# Arrays And Hashing
+
+# Two Pointers
+
+# Sliding Window
+
+# Stack
+
+# Binary Search
 
 Problems to be solved
 
-## Blind 75
+# Linked List
+
+## Problems from Blind 75
 
 - [ ] **Reverse Linked List**
 
