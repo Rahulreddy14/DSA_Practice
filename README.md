@@ -23,6 +23,11 @@ Problems to be solved
 
 - [ ] **Reorder List**
 
-- [ ] **Remove Nth Node from the End of the List**
+- [x] **Remove Nth Node from the End of the List**
+
+- Just create a Dummy node
+  Use two Pointers, start the left from the dummy node. right one starts with the difference given in the question
+- move the pointers untill the right points to None
+- then update the next of left
 
 - [ ] **Linked List Cycle**
