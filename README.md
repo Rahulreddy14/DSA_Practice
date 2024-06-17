@@ -9,6 +9,8 @@ https://github.com/armankhondker/best-leetcode-resources
 The goal of this Read me file is to have the Journalling of all the learnings I am gonna make while grinding Leet code and document it so it can easy to revise when ever needed.
 This is a 100 days grinding of leetcode.
 
+# GOAL - To Complete the Blind 75 List of the coding Questions
+
 ### Linked List:
 
 Problems to be solved
