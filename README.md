@@ -9,7 +9,7 @@ https://github.com/armankhondker/best-leetcode-resources
 The goal of this Read me file is to have the Journalling of all the learnings I am gonna make while grinding Leet code and document it so it can easy to revise when ever needed.
 This is a 100 days grinding of leetcode.
 
-# GOAL - To Complete the Blind 75 List of the coding Questions
+## GOAL - To Complete the Blind 75 List of the coding Questions
 
 # Arrays And Hashing
 
@@ -21,8 +21,6 @@ This is a 100 days grinding of leetcode.
 
 # Binary Search
 
-Problems to be solved
-
 # Linked List
 
 ## Problems from Blind 75
@@ -33,11 +31,15 @@ Problems to be solved
 
 - [ ] **Reorder List**
 
-- [x] **Remove Nth Node from the End of the List**
+  - first find the middle. use slow and fast pointers to find the middle
+  - reverse the second half of the linked list
+  - now merge the two halfs, using two pointers and two temporary variables
 
-- Just create a Dummy node
-  Use two Pointers, start the left from the dummy node. right one starts with the difference given in the question
-- move the pointers untill the right points to None
-- then update the next of left
+- [] **Remove Nth Node from the End of the List**
+
+  - Just create a Dummy node
+    Use two Pointers, start the left from the dummy node. right one starts with the difference given in the question
+  - move the pointers untill the right points to None
+  - then update the next of left
 
 - [ ] **Linked List Cycle**
