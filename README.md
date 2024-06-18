@@ -9,6 +9,13 @@ https://github.com/armankhondker/best-leetcode-resources
 The goal of this Read me file is to have the Journalling of all the learnings I am gonna make while grinding Leet code and document it so it can easy to revise when ever needed.
 This is a 100 days grinding of leetcode.
 
+## Approach for this blind 75
+
+- first watch all the videos of all the problems in that specific pattern
+- understand the logical techniques used in problem solving and make a note of them
+- visualize the solutions and revise them before jumping into the code
+- now once all the problems in that pattern are done, then start solving one by one on my own by checking the logical notes needed
+
 ## GOAL - To Complete the Blind 75 List of the coding Questions
 
 # Arrays And Hashing
@@ -25,21 +32,30 @@ This is a 100 days grinding of leetcode.
 
 ## Problems from Blind 75
 
-- [ ] **Reverse Linked List**
+- [x] **Reverse Linked List**
 
-- [ ] **Merge Sorted Lists**
+  - two pointers
+  - prev and curr
+  - change the curr pointing to the prev and increment the pointers till it reaches the end
+
+- [x] **Merge Sorted Lists**
+
+  - create a dummy linked list. compare each value from the each list and the tail points to the least value
+  - move to the next item in the list
+  - if both lists are not equal, then attach that to the tail of the output list.
 
 - [ ] **Reorder List**
 
-  - first find the middle. use slow and fast pointers to find the middle
-  - reverse the second half of the linked list
-  - now merge the two halfs, using two pointers and two temporary variables
+  - first find the middle. use **slow and fast pointers** to find the middle
+  - reverse the second half of the linked list. create a None as prev and then start reversing
+  - now merge the two halfs, using two pointers for two halfs and two temporary variables to store the next values
 
-- [] **Remove Nth Node from the End of the List**
+- [x] **Remove Nth Node from the End of the List**
 
-  - Just create a Dummy node
+  - Just create a Dummy node. creating this means, adding 0 to the head of the given list. dummy = Listnode(0, head)
     Use two Pointers, start the left from the dummy node. right one starts with the n nodes from the head given in the question
-  - move the pointers untill the right points to None
-  - then remove the next node of left pointer
+  - move the pointers until the right points to None
+  - then just point the next of the left to the left.next
 
 - [ ] **Linked List Cycle**
+  - use two pointers, slow and fast technique
