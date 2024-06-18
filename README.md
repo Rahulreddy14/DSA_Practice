@@ -22,7 +22,21 @@ This is a 100 days grinding of leetcode.
 
 # Two Pointers
 
+- [ ] **Valid Palindrome**
+
+- [ ] **3Sum**
+
+- [ ] **Container With Most Water**
+
 # Sliding Window
+
+- [ ] **Best Time to Buy and Sell Stock**
+
+- [ ] **Longest Substring without repeating characters**
+
+- [ ] **Longest Repeating character replacement**
+
+- [ ] **Minimum Window Substring**
 
 # Stack
 
@@ -44,7 +58,7 @@ This is a 100 days grinding of leetcode.
   - move to the next item in the list
   - if both lists are not equal, then attach that to the tail of the output list.
 
-- [ ] **Reorder List**
+- [x] **Reorder List**
 
   - first find the middle. use **slow and fast pointers** to find the middle
   - reverse the second half of the linked list. create a None as prev and then start reversing
@@ -57,5 +71,5 @@ This is a 100 days grinding of leetcode.
   - move the pointers until the right points to None
   - then just point the next of the left to the left.next
 
-- [ ] **Linked List Cycle**
+- [x] **Linked List Cycle**
   - use two pointers, slow and fast technique
