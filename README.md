@@ -24,8 +24,11 @@ This is a 100 days grinding of leetcode.
 
 - [ ] **Valid Palindrome**
 
-- [ ] **3Sum**
+  - two pointers, check if alpha numeric or not and move the pointers. simple af
 
+- [ ] **3Sum**
+  - Sort the input array
+  - checking for the first element of the desired output nad for the remaining, use the two sum logic
 - [ ] **Container With Most Water**
 
 # Sliding Window
@@ -40,7 +43,13 @@ This is a 100 days grinding of leetcode.
 
 # Stack
 
+- [ ] **Valid Parenthesis**
+
 # Binary Search
+
+- [ ] **Find Minimum in the rotated binary search**
+
+- [ ] **Search in a rotated Sorted Array**
 
 # Linked List
 
