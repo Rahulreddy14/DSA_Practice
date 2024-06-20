@@ -36,7 +36,7 @@ This is a 100 days grinding of leetcode.
 
 - [ ] **3Sum**
   - Sort the input array
-  - checking for the first element of the desired output nad for the remaining, use the two sum logic
+  - checking for the first element of the desired output and for the remaining, use the two sum logic
 - [ ] **Container With Most Water**
 
 # Sliding Window
