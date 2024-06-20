@@ -26,7 +26,7 @@ It has a single node called root and has zero or more sub trees
 - Degree: The number of children of a node.
 - Balanced Tree: A tree where the difference between the heights of left and right subtrees is at most one for every node.
 
-<span style="color:red">Work on understanding the Concept of Balanced Trees </span>
+> Work on understanding the Concept of Balanced Trees
 
 Keywords : Root, Parent Node, Child Node, Leaf node, Siblings, Depth, height
 
