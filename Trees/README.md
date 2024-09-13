@@ -1,7 +1,5 @@
 # Tress
 
-## Master this Trees in such a way that when I see a tree problem, I should say " Fuck, this is so easy"
-
 ## Resources
 
 https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tre
@@ -58,7 +56,6 @@ Types of Trees :
 ### Miscellinious
 
 - Creating a Tree
-  [Link](./Creating_tree.py)
 - Implementing Traversals
 - Common Algorithms
   - Search Algorithms
